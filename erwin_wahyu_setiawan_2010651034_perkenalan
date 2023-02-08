@@ -4,6 +4,7 @@
 <title></title>
 </head>
 <body>
+<div>
 <h2>perkenakan</h2>
 <p>nama : erwin wahyu setiawan</p>
 <p> nim : 2010651034</p>
@@ -11,5 +12,6 @@
 <p>hobi : memancing</p>
 <p>tempat tinggal :dusun Tegal Gayam, desa Kemuningsari Kidul, Jenggawah, Jember Regency, East Java 68171</p>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3319.9109369150838!2d113.58895175141389!3d-8.296625776188602!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd69ac5b2ed2f01%3A0x5b92aeefb80a2ac0!2sSDN%20Kemuningsari%20Kidul%2002!5e0!3m2!1sid!2sid!4v1648191082163!5m2!1sid!2sid" width="360" height="360" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 </body>
 </html>
